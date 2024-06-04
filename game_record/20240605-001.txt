@@ -1,0 +1,478 @@
+Game #145602929, unrated.
+
+Card Pool: level 10
+Kingdom generated with these relative percentages:
+   0%: Bandit, Possession, and Remodel
+c starts with 7 Coppers.
+c starts with 3 Estates.
+h starts with 7 Coppers.
+h starts with 3 Estates.
+Q starts with 7 Coppers.
+Q starts with 3 Estates.
+c shuffles their deck.
+h shuffles their deck.
+Q shuffles their deck.
+c draws 3 Coppers and 2 Estates.
+h draws 5 cards.
+Q draws 5 cards.
+Turn 1 - capoowo
+c plays 3 Coppers. (+$3)
+c buys and gains a Workshop.
+c draws 4 Coppers and an Estate.
+Turn 1 - hansonyu123
+h plays 4 Coppers. (+$4)
+h buys and gains a Smithy.
+h draws 5 cards.
+Turn 1 - QYHamster
+Q plays 4 Coppers. (+$4)
+Q buys and gains a Poacher.
+Q draws 5 cards.
+Turn 2 - capoowo
+c plays 4 Coppers. (+$4)
+c buys and gains a Throne Room.
+c shuffles their deck.
+c draws 2 Coppers, 2 Estates, and a Throne Room.
+Turn 2 - hansonyu123
+h plays 3 Coppers. (+$3)
+h buys and gains a Village.
+h shuffles their deck.
+h draws 5 cards.
+Turn 2 - QYHamster
+Q plays 3 Coppers. (+$3)
+Q buys and gains a Workshop.
+Q shuffles their deck.
+Q draws 5 cards.
+Turn 3 - capoowo
+c plays 2 Coppers. (+$2)
+c draws 4 Coppers and a Workshop.
+Turn 3 - hansonyu123
+h plays a Smithy.
+h draws 3 cards.
+h plays 5 Coppers. (+$5)
+h buys and gains a Library.
+h shuffles their deck.
+h draws 5 cards.
+Turn 3 - QYHamster
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Workshop.
+Q gains a Poacher.
+Q plays 3 Coppers. (+$3)
+Q buys and gains a Throne Room.
+Q draws 5 cards.
+Turn 4 - capoowo
+c plays a Workshop.
+c gains a Smithy.
+c plays 4 Coppers. (+$4)
+c buys and gains a Poacher.
+c shuffles their deck.
+c draws a Copper, 2 Estates, a Poacher, and a Throne Room.
+Turn 4 - hansonyu123
+h plays a Village.
+h draws a card.
+h gets +2 Actions.
+h plays a Library.
+h looks at a card.
+h looks at a card.
+h looks at a card.
+h plays a Smithy.
+h draws 3 cards.
+h plays 6 Coppers. (+$6)
+h buys and gains a Gold.
+h shuffles their deck.
+h draws 5 cards.
+Turn 4 - QYHamster
+Q plays 3 Coppers. (+$3)
+Q buys and gains a Silver.
+Q shuffles their deck.
+Q draws 5 cards.
+Turn 5 - capoowo
+c plays a Throne Room.
+c plays a Poacher.
+c draws a Copper.
+c gets +1 Action.
+c gets +$1.
+c plays a Poacher again.
+c draws a Copper.
+c gets +1 Action.
+c gets +$1.
+c plays 3 Coppers. (+$3)
+c buys and gains a Council Room.
+c draws 3 Coppers, an Estate, and a Workshop.
+Turn 5 - hansonyu123
+h plays a Village.
+h draws a card.
+h gets +2 Actions.
+h plays 5 Coppers. (+$5)
+h buys and gains a Council Room.
+h draws 5 cards.
+Turn 5 - QYHamster
+Q plays a Silver and 3 Coppers. (+$5)
+Q buys and gains a Council Room.
+Q draws 5 cards.
+Turn 6 - capoowo
+c plays a Workshop.
+c gains a Throne Room.
+c plays 3 Coppers. (+$3)
+c buys and gains a Silver.
+c shuffles their deck.
+c draws 2 Coppers, a Silver, an Estate, and a Smithy.
+Turn 6 - hansonyu123
+h plays a Library.
+h looks at a card.
+h sets a card aside with Library.
+h looks at a card.
+h looks at a card.
+h shuffles their deck.
+h looks at a card.
+h discards a Smithy.
+h plays a Gold and 3 Coppers. (+$6)
+h buys and gains a Gold.
+h draws 5 cards.
+Turn 6 - QYHamster
+Q plays a Workshop.
+Q gains a Poacher.
+Q plays 2 Coppers. (+$2)
+Q draws 5 cards.
+Turn 7 - capoowo
+c plays a Smithy.
+c draws an Estate, a Poacher, and a Throne Room.
+c plays a Silver and 2 Coppers. (+$4)
+c buys and gains a Poacher.
+c draws 3 Coppers, an Estate, and a Workshop.
+Turn 7 - hansonyu123
+h plays a Village.
+h draws a card.
+h gets +2 Actions.
+h plays a Council Room.
+h shuffles their deck.
+h draws 4 cards.
+h gets +1 Buy.
+Q shuffles their deck.
+Q draws a card.
+c draws a Throne Room.
+h plays a Smithy.
+h draws 3 cards.
+h plays a Gold and 7 Coppers. (+$10)
+h buys and gains a Throne Room.
+h buys and gains a Gold.
+h shuffles their deck.
+h draws 5 cards.
+Turn 7 - QYHamster
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Throne Room.
+Q plays a Council Room.
+Q draws 4 cards.
+Q gets +1 Buy.
+c draws a Copper.
+h draws a card.
+Q plays a Council Room again.
+Q draws 4 cards.
+Q gets +1 Buy.
+c draws a Council Room.
+h draws a card.
+Q plays a Silver and 6 Coppers. (+$8)
+Q buys and gains a Gold.
+Q buys and gains a Throne Room.
+Q shuffles their deck.
+Q draws 5 cards.
+Turn 8 - capoowo
+c plays a Throne Room.
+c plays a Council Room.
+c shuffles their deck.
+c draws a Copper, 2 Estates, and a Poacher.
+c gets +1 Buy.
+h draws a card.
+Q draws a card.
+c plays a Council Room again.
+c draws 2 Coppers, a Poacher, and a Throne Room.
+c gets +1 Buy.
+h draws a card.
+Q draws a card.
+c plays 7 Coppers. (+$7)
+c buys and gains a Gold.
+c shuffles their deck.
+c draws a Copper, a Silver, a Council Room, a Poacher, and a Smithy.
+Turn 8 - hansonyu123
+h plays 3 Golds and 2 Coppers. (+$11)
+h buys and gains a Province.
+h draws 5 cards.
+Turn 8 - QYHamster
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Throne Room.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher again.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Workshop.
+Q gains a Poacher.
+Q plays a Gold and 3 Coppers. (+$6)
+Q buys and gains a Province.
+Q draws 5 cards.
+Turn 9 - capoowo
+c plays a Poacher.
+c draws a Throne Room.
+c gets +1 Action.
+c gets +$1.
+c plays a Throne Room.
+c plays a Smithy.
+c draws 2 Coppers and a Poacher.
+c plays a Smithy again.
+c draws a Copper, a Gold, and an Estate.
+c plays a Gold, a Silver, and 4 Coppers. (+$9)
+c buys and gains a Province.
+c draws 2 Coppers, an Estate, a Throne Room, and a Workshop.
+Turn 9 - hansonyu123
+h plays a Village.
+h draws a card.
+h gets +2 Actions.
+h plays 4 Coppers. (+$4)
+h buys and gains a Village.
+h shuffles their deck.
+h draws 5 cards.
+Turn 9 - QYHamster
+Q plays a Throne Room.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher again.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Council Room.
+Q shuffles their deck.
+Q draws 4 cards.
+Q gets +1 Buy.
+c draws an Estate.
+h draws a card.
+Q plays a Silver and 4 Coppers. (+$6)
+Q buys and gains a Province.
+Q draws 5 cards.
+Turn 10 - capoowo
+c plays a Throne Room.
+c plays a Workshop.
+c gains a Village.
+c plays a Workshop again.
+c gains a Village.
+c shuffles their deck.
+c draws a Copper, an Estate, 2 Villages, and a Workshop.
+Turn 10 - hansonyu123
+h plays a Throne Room.
+h plays a Council Room.
+h draws 4 cards.
+h gets +1 Buy.
+Q draws a card.
+c draws a Council Room.
+h plays a Council Room again.
+h draws 4 cards.
+h gets +1 Buy.
+Q draws a card.
+c draws a Poacher.
+h plays 2 Golds and 6 Coppers. (+$12)
+h buys and gains a Province.
+h buys and gains a Throne Room.
+h draws 5 cards.
+Turn 10 - QYHamster
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Workshop.
+Q gains a Poacher.
+Q plays a Gold and 3 Coppers. (+$6)
+Q buys and gains a Province.
+Q shuffles their deck.
+Q draws 5 cards.
+Turn 11 - capoowo
+c plays a Poacher.
+c draws a Copper.
+c gets +1 Action.
+c gets +$1.
+c plays a Village.
+c draws a Copper.
+c gets +2 Actions.
+c plays a Village.
+c draws a Copper.
+c gets +2 Actions.
+c plays a Council Room.
+c draws 2 Coppers, a Poacher, and a Throne Room.
+c gets +1 Buy.
+h draws a card.
+Q draws a card.
+c plays a Poacher.
+c draws an Estate.
+c gets +1 Action.
+c gets +$1.
+c plays a Throne Room.
+c plays a Workshop.
+c gains a Poacher.
+c plays a Workshop again.
+c gains a Smithy.
+c plays 6 Coppers. (+$6)
+c buys and gains a Province.
+c draws a Copper, a Silver, a Gold, an Estate, and a Throne Room.
+Turn 11 - hansonyu123
+h plays a Village.
+h shuffles their deck.
+h draws a card.
+h gets +2 Actions.
+h plays a Throne Room.
+h plays a Gold and a Copper. (+$4)
+h buys and gains a Village.
+h draws 5 cards.
+Turn 11 - QYHamster
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Workshop.
+Q gains a Throne Room.
+Q plays a Silver and a Copper. (+$3)
+Q buys and gains a Gold.
+Q draws 5 cards.
+Turn 12 - capoowo
+c plays a Gold, a Silver, and a Copper. (+$6)
+c buys and gains a Gold.
+c shuffles their deck.
+c draws a Gold, an Estate, a Province, a Smithy, and a Village.
+Turn 12 - hansonyu123
+h plays a Throne Room.
+h plays a Library.
+h looks at a card.
+h looks at a card.
+h looks at a card.
+h looks at a card.
+h plays a Library again.
+h plays a Gold and 4 Coppers. (+$7)
+h buys and gains a Gold.
+h draws 5 cards.
+Turn 12 - QYHamster
+Q plays a Throne Room.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher again.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Council Room.
+Q draws 4 cards.
+Q gets +1 Buy.
+c draws a Copper.
+h draws a card.
+Q plays a Gold and 5 Coppers. (+$8)
+Q buys and gains a Province.
+Q buys and gains a Village.
+Q shuffles their deck.
+Q draws 5 cards.
+Turn 13 - capoowo
+c plays a Village.
+c draws a Copper.
+c gets +2 Actions.
+c plays a Smithy.
+c draws a Silver, a Poacher, and a Village.
+c plays a Poacher.
+c draws an Estate.
+c gets +1 Action.
+c gets +$1.
+c plays a Village.
+c draws an Estate.
+c gets +2 Actions.
+c plays a Gold, a Silver, and 2 Coppers. (+$7)
+c buys and gains a Province.
+c draws 3 Coppers, a Province, and a Smithy.
+Turn 13 - hansonyu123
+h plays a Village.
+h shuffles their deck.
+h draws a card.
+h gets +2 Actions.
+h plays a Smithy.
+h draws 3 cards.
+h plays a Council Room.
+h draws 4 cards.
+h gets +1 Buy.
+Q draws a card.
+c draws a Gold.
+h plays 3 Golds and 5 Coppers. (+$14)
+h buys and gains a Province.
+h buys and gains a Gold.
+h draws 5 cards.
+Turn 13 - QYHamster
+Q plays a Throne Room.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher again.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays 2 Coppers. (+$2)
+Q buys and gains a Smithy.
+Q draws 5 cards.
+Turn 14 - capoowo
+c plays a Smithy.
+c draws 2 Coppers and a Poacher.
+c plays a Gold and 5 Coppers. (+$8)
+c buys and gains a Province.
+c draws a Council Room, a Poacher, 2 Throne Rooms, and a Workshop.
+Turn 14 - hansonyu123
+h plays a Throne Room.
+h plays a Throne Room.
+h plays a Throne Room again.
+h plays a Gold and a Copper. (+$4)
+h buys and gains an Estate.
+h draws 5 cards.
+Turn 14 - QYHamster
+Q plays a Village.
+Q draws a card.
+Q gets +2 Actions.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Poacher.
+Q draws a card.
+Q gets +1 Action.
+Q gets +$1.
+Q plays a Gold, a Silver, and a Copper. (+$6)
+Q buys and gains a Province.
+Q draws 5 cards.
