@@ -1,0 +1,527 @@
+
+Game #145600949, unrated.
+
+Card Pool: level 10
+Kingdom generated with these relative percentages:
+   0%: Bandit and Possession
+Q starts with 7 Coppers.
+Q starts with 3 Estates.
+h starts with 7 Coppers.
+h starts with 3 Estates.
+Q shuffles their deck.
+h shuffles their deck.
+Q draws 3 Coppers and 2 Estates.
+h draws 4 Coppers and an Estate.
+Turn 1 - QYHamster
+Q plays 3 Coppers. (+$3)
+Q buys and gains a Silver.
+Q draws 4 Coppers and an Estate.
+Turn 1 - hansonyu123
+h plays 4 Coppers. (+$4)
+h buys and gains a Militia.
+h draws 3 Coppers and 2 Estates.
+Turn 2 - QYHamster
+Q plays 4 Coppers. (+$4)
+Q buys and gains a Militia.
+Q shuffles their deck.
+Q draws a Copper, a Silver, and 3 Estates.
+Turn 2 - hansonyu123
+h plays 3 Coppers. (+$3)
+h buys and gains a Harbinger.
+h shuffles their deck.
+h draws 3 Coppers, an Estate, and a Harbinger.
+Turn 3 - QYHamster
+Q plays a Silver and a Copper. (+$3)
+Q buys and gains a Workshop.
+Q draws 4 Coppers and a Militia.
+Turn 3 - hansonyu123
+h plays a Harbinger.
+h draws an Estate.
+h gets +1 Action.
+h plays 3 Coppers. (+$3)
+h buys and gains a Workshop.
+h draws 4 Coppers and an Estate.
+Turn 4 - QYHamster
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and an Estate.
+Q plays 4 Coppers. (+$4)
+Q buys and gains a Gold.
+Q shuffles their deck.
+Q draws 4 Coppers and an Estate.
+Turn 4 - hansonyu123
+h plays 3 Coppers. (+$3)
+h buys and gains a Silver.
+h shuffles their deck.
+h draws 2 Coppers, an Estate, a Harbinger, and a Militia.
+Turn 5 - QYHamster
+Q plays 4 Coppers. (+$4)
+Q buys and gains a Militia.
+Q draws a Copper, a Gold, an Estate, a Militia, and a Workshop.
+Turn 5 - hansonyu123
+h plays a Harbinger.
+h draws a Copper.
+h gets +1 Action.
+h plays a Militia.
+h gets +$2.
+Q discards an Estate and a Militia.
+h plays 3 Coppers. (+$3)
+h buys and gains a Market.
+h draws 3 Coppers, a Silver, and an Estate.
+Turn 6 - QYHamster
+Q plays a Workshop.
+Q gains a Militia.
+Q plays a Gold and a Copper. (+$4)
+Q buys and gains a Throne Room.
+Q shuffles their deck.
+Q draws 2 Coppers, a Silver, an Estate, and a Workshop.
+Turn 6 - hansonyu123
+h plays a Silver and 3 Coppers. (+$5)
+h buys and gains a Market.
+h shuffles their deck.
+h draws 2 Coppers, 2 Estates, and a Workshop.
+Turn 7 - QYHamster
+Q plays a Workshop.
+Q gains a Militia.
+Q plays a Silver and 2 Coppers. (+$4)
+Q buys and gains a Throne Room.
+Q draws a Copper, a Gold, an Estate, and 2 Militias.
+Turn 7 - hansonyu123
+h plays a Workshop.
+h gains a Throne Room.
+h plays 2 Coppers. (+$2)
+h buys and gains a Cellar.
+h draws a Copper, a Silver, an Estate, and 2 Markets.
+Turn 8 - QYHamster
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and an Estate.
+Q plays a Gold and a Copper. (+$4)
+Q buys and gains a Gold.
+Q draws 2 Coppers, an Estate, a Militia, and a Throne Room.
+Turn 8 - hansonyu123
+h plays a Market.
+h draws a Copper.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Market.
+h draws a Copper.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Silver and 2 Coppers. (+$4)
+h buys and gains a Gold.
+h shuffles their deck.
+h draws 3 Coppers, a Harbinger, and a Militia.
+Turn 9 - QYHamster
+Q plays a Throne Room.
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and a Harbinger.
+Q plays a Militia again.
+Q gets +$2.
+Q plays 2 Coppers. (+$2)
+Q buys and gains a Gold.
+Q shuffles their deck.
+Q draws 3 Coppers, a Militia, and a Throne Room.
+Turn 9 - hansonyu123
+h plays a Militia.
+h gets +$2.
+Q discards 2 Coppers.
+h plays 2 Coppers. (+$2)
+h buys and gains a Bureaucrat.
+h draws a Copper, a Gold, a Cellar, a Market, and a Workshop.
+Turn 10 - QYHamster
+Q plays a Throne Room.
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and a Cellar.
+Q plays a Militia again.
+Q gets +$2.
+Q plays a Copper. (+$1)
+Q buys and gains a Market.
+Q draws a Copper, a Silver, a Gold, an Estate, and a Militia.
+Turn 10 - hansonyu123
+h plays a Market.
+h draws an Estate.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Workshop.
+h gains a Militia.
+h plays a Gold. (+$3)
+h buys and gains a Throne Room.
+h draws 2 Coppers, a Silver, and 2 Estates.
+Turn 11 - QYHamster
+Q plays a Militia.
+Q gets +$2.
+h discards 2 Estates.
+Q plays a Gold, a Silver, and a Copper. (+$6)
+Q buys and gains a Province.
+Q draws 3 Coppers, a Gold, and a Militia.
+Turn 11 - hansonyu123
+h plays a Silver and 2 Coppers. (+$4)
+h buys and gains a Silver.
+h shuffles their deck.
+h draws a Copper, a Harbinger, 2 Markets, and a Throne Room.
+Turn 12 - QYHamster
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and a Harbinger.
+Q plays a Gold and 3 Coppers. (+$6)
+Q buys and gains a Province.
+Q draws a Gold, 2 Estates, a Militia, and a Throne Room.
+Turn 12 - hansonyu123
+h plays a Throne Room.
+h plays a Market.
+h draws a Gold.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Market again.
+h draws a Bureaucrat.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Market.
+h draws an Estate.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Bureaucrat.
+h gains a Silver.
+Q topdecks an Estate.
+h plays a Gold. (+$3)
+h buys and gains a Gold.
+h draws 2 Coppers, 2 Silvers, and an Estate.
+Turn 13 - QYHamster
+Q plays a Throne Room.
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and an Estate.
+Q plays a Militia again.
+Q gets +$2.
+Q plays a Gold. (+$3)
+Q buys and gains a Gold.
+Q shuffles their deck.
+Q draws a Copper, a Gold, an Estate, a Province, and a Workshop.
+Turn 13 - hansonyu123
+h plays 2 Silvers and a Copper. (+$5)
+h buys and gains a Laboratory.
+h draws a Copper, a Silver, an Estate, a Cellar, and a Militia.
+Turn 14 - QYHamster
+Q plays a Workshop.
+Q gains a Throne Room.
+Q plays a Gold and a Copper. (+$4)
+Q buys and gains a Throne Room.
+Q draws 2 Coppers, a Gold, a Militia, and a Throne Room.
+Turn 14 - hansonyu123
+h plays a Cellar.
+h gets +1 Action.
+h discards an Estate.
+h draws a Copper.
+h plays a Militia.
+h gets +$2.
+Q discards 2 Coppers.
+h plays a Silver and 2 Coppers. (+$4)
+h buys and gains a Gold.
+h draws 2 Coppers, a Militia, a Throne Room, and a Workshop.
+Turn 15 - QYHamster
+Q plays a Throne Room.
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and a Workshop.
+Q plays a Militia again.
+Q gets +$2.
+Q plays a Gold. (+$3)
+Q buys and gains a Gold.
+Q draws a Copper, 2 Golds, a Militia, and a Throne Room.
+Turn 15 - hansonyu123
+h plays a Throne Room.
+h plays a Militia.
+h gets +$2.
+Q discards a Copper and a Throne Room.
+h plays a Militia again.
+h gets +$2.
+h plays a Copper. (+$1)
+h buys and gains a Market.
+h shuffles their deck.
+h draws a Copper, a Gold, an Estate, a Cellar, and a Harbinger.
+Turn 16 - QYHamster
+Q plays a Militia.
+Q gets +$2.
+h discards an Estate and a Cellar.
+Q plays 2 Golds. (+$6)
+Q buys and gains a Province.
+Q draws a Copper, an Estate, a Province, and 2 Militias.
+Turn 16 - hansonyu123
+h plays a Harbinger.
+h draws a Copper.
+h gets +1 Action.
+h looks at an Estate and a Cellar.
+h plays a Gold and 2 Coppers. (+$5)
+h buys and gains a Market.
+h draws 2 Coppers, a Silver, and 2 Golds.
+Turn 17 - QYHamster
+Q plays a Militia.
+Q gets +$2.
+h discards 2 Coppers.
+Q plays a Copper. (+$1)
+Q buys and gains a Harbinger.
+Q draws 2 Coppers, a Silver, an Estate, and a Market.
+Turn 17 - hansonyu123
+h plays 2 Golds and a Silver. (+$8)
+h buys and gains a Province.
+h draws a Copper, a Silver, 2 Markets, and a Militia.
+Turn 18 - QYHamster
+Q plays a Market.
+Q shuffles their deck.
+Q draws a Copper.
+Q gets +1 Action.
+Q gets +1 Buy.
+Q gets +$1.
+Q plays a Silver and 3 Coppers. (+$5)
+Q buys and gains a Gold.
+Q draws 2 Coppers, 2 Militias, and a Throne Room.
+Turn 18 - hansonyu123
+h plays a Market.
+h draws a Copper.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Market.
+h draws a Militia.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Militia.
+h gets +$2.
+Q discards a Copper and a Militia.
+h plays a Silver and 2 Coppers. (+$4)
+h buys and gains a Province.
+h draws a Silver, an Estate, a Bureaucrat, and 2 Throne Rooms.
+Turn 19 - QYHamster
+Q plays a Throne Room.
+Q plays a Militia.
+Q gets +$2.
+h discards an Estate and a Throne Room.
+Q plays a Militia again.
+Q gets +$2.
+Q plays a Copper. (+$1)
+Q buys and gains a Market.
+Q draws a Copper, an Estate, a Province, a Throne Room, and a Workshop.
+Turn 19 - hansonyu123
+h plays a Throne Room.
+h plays a Bureaucrat.
+h gains a Silver.
+Q topdecks an Estate.
+h plays a Bureaucrat again.
+h gains a Silver.
+Q topdecks a Province.
+h draws a Copper, 2 Silvers, a Laboratory, and a Workshop.
+Turn 20 - QYHamster
+Q plays a Throne Room.
+Q plays a Workshop.
+Q gains a Throne Room.
+Q plays a Workshop again.
+Q gains a Bureaucrat.
+Q draws 2 Golds, 2 Estates, and a Province.
+Turn 20 - hansonyu123
+h plays a Laboratory.
+h draws an Estate and a Market.
+h gets +1 Action.
+h plays a Market.
+h shuffles their deck.
+h draws an Estate.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Workshop.
+h gains a Gardens.
+h plays 2 Silvers and a Copper. (+$5)
+h buys and gains a Duchy.
+h draws 2 Coppers, a Silver, and 2 Markets.
+Turn 21 - QYHamster
+Q plays 2 Golds. (+$6)
+Q buys and gains a Gold.
+Q draws a Gold, a Province, a Militia, and 2 Throne Rooms.
+Turn 21 - hansonyu123
+h plays a Market.
+h draws a Silver.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Market.
+h draws a Gold.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Gold, 2 Silvers, and 2 Coppers. (+$9)
+h buys and gains a Province.
+h buys and gains a Harbinger.
+h draws a Copper, a Province, a Cellar, a Militia, and a Throne Room.
+Turn 22 - QYHamster
+Q plays a Throne Room.
+Q plays a Militia.
+Q gets +$2.
+h discards a Province and a Cellar.
+Q plays a Militia again.
+Q gets +$2.
+Q plays a Gold. (+$3)
+Q buys and gains a Gold.
+Q draws a Copper, a Gold, a Province, a Harbinger, and a Militia.
+Turn 22 - hansonyu123
+h plays a Throne Room.
+h plays a Militia.
+h gets +$2.
+Q discards a Copper and a Province.
+h plays a Militia again.
+h gets +$2.
+h plays a Copper. (+$1)
+h buys and gains a Gardens.
+h draws 2 Coppers, an Estate, a Bureaucrat, and a Throne Room.
+Turn 23 - QYHamster
+Q plays a Harbinger.
+Q draws a Gold.
+Q gets +1 Action.
+Q looks at 7 Coppers, a Silver, 6 Golds, 3 Estates, 3 Provinces, a Bureaucrat, 2 Markets, 3 Militias, 5 Throne Rooms, and a Workshop.
+Q topdecks a Gold.
+Q plays a Militia.
+Q gets +$2.
+h discards a Copper and an Estate.
+Q plays 2 Golds. (+$6)
+Q buys and gains a Province.
+Q shuffles their deck.
+Q draws a Gold, a Province, 2 Militias, and a Throne Room.
+Turn 23 - hansonyu123
+h plays a Throne Room.
+h plays a Bureaucrat.
+h gains a Silver.
+Q topdecks a Province.
+h plays a Bureaucrat again.
+h gains a Silver.
+Q reveals their hand: 2 Militias, a Gold, and a Throne Room.
+h draws 2 Silvers, a Gold, a Province, and a Market.
+Turn 24 - QYHamster
+Q plays a Throne Room.
+Q plays a Militia.
+Q gets +$2.
+h discards a Silver and a Province.
+Q plays a Militia again.
+Q gets +$2.
+Q plays a Gold. (+$3)
+Q buys and gains a Duchy.
+Q draws a Silver, 2 Golds, a Province, and a Bureaucrat.
+Turn 24 - hansonyu123
+h plays a Market.
+h draws a Copper.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Gold, a Silver, and a Copper. (+$6)
+h buys and gains a Gardens.
+h buys and gains an Estate.
+h shuffles their deck.
+h draws a Silver, a Gold, a Gardens, a Harbinger, and a Militia.
+Turn 25 - QYHamster
+Q plays a Bureaucrat.
+Q gains a Silver.
+h topdecks a Gardens.
+Q plays 2 Golds and a Silver. (+$8)
+Q buys and gains a Gardens.
+Q draws a Copper, a Silver, 2 Golds, and a Market.
+Turn 25 - hansonyu123
+h plays a Harbinger.
+h draws a Gardens.
+h gets +1 Action.
+h plays a Militia.
+h gets +$2.
+Q discards a Copper and a Silver.
+h plays a Gold and a Silver. (+$5)
+h buys and gains a Gardens.
+h draws a Silver, an Estate, 2 Gardens, and a Laboratory.
+Turn 26 - QYHamster
+Q plays a Market.
+Q draws a Gold.
+Q gets +1 Action.
+Q gets +1 Buy.
+Q gets +$1.
+Q plays 3 Golds. (+$9)
+Q buys and gains 2 Gardens.
+Q draws 2 Coppers and 3 Throne Rooms.
+Turn 26 - hansonyu123
+h plays a Laboratory.
+h draws a Silver and an Estate.
+h gets +1 Action.
+h plays 2 Silvers. (+$4)
+h buys and gains a Gardens.
+h draws 3 Coppers, a Silver, and a Throne Room.
+Turn 27 - QYHamster
+Q plays 2 Coppers. (+$2)
+Q buys and gains an Estate.
+Q draws a Copper, 2 Provinces, a Militia, and a Workshop.
+Turn 27 - hansonyu123
+h plays a Silver and 3 Coppers. (+$5)
+h buys and gains a Duchy.
+h draws 2 Coppers, a Silver, and 2 Estates.
+Turn 28 - QYHamster
+Q plays a Militia.
+Q gets +$2.
+h discards 2 Estates.
+Q plays a Copper. (+$1)
+Q buys and gains an Estate.
+Q draws 2 Coppers, an Estate, a Market, and a Militia.
+Turn 28 - hansonyu123
+h plays a Silver and 2 Coppers. (+$4)
+h buys and gains an Estate.
+h draws a Copper, a Gold, 2 Provinces, and a Throne Room.
+Turn 29 - QYHamster
+Q plays a Market.
+Q draws an Estate.
+Q gets +1 Action.
+Q gets +1 Buy.
+Q gets +$1.
+Q plays a Militia.
+Q gets +$2.
+h discards 2 Provinces.
+Q plays 2 Coppers. (+$2)
+Q buys and gains a Duchy.
+Q draws 2 Golds, an Estate, a Province, and a Harbinger.
+Turn 29 - hansonyu123
+h plays a Gold and a Copper. (+$4)
+h buys and gains an Estate.
+h draws a Copper, a Silver, a Duchy, a Market, and a Militia.
+Turn 30 - QYHamster
+Q plays a Harbinger.
+Q draws a Copper.
+Q gets +1 Action.
+Q looks at 6 Coppers, 2 Silvers, 6 Golds, 4 Estates, 2 Duchies, 3 Provinces, a Bureaucrat, 3 Gardens, 2 Markets, 4 Militias, 4 Throne Rooms, and a Workshop.
+Q topdecks a Militia.
+Q plays 2 Golds and a Copper. (+$7)
+Q buys and gains a Duchy.
+Q shuffles their deck.
+Q draws a Gold, a Duchy, a Militia, and 2 Throne Rooms.
+Turn 30 - hansonyu123
+h plays a Market.
+h draws a Cellar.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Cellar.
+h gets +1 Action.
+h discards a Duchy.
+h draws a Market.
+h plays a Market.
+h draws a Gold.
+h gets +1 Action.
+h gets +1 Buy.
+h gets +$1.
+h plays a Militia.
+h gets +$2.
+Q discards a Duchy and a Throne Room.
+h plays a Gold, a Silver, and a Copper. (+$6)
+h buys and gains a Province.
+h buys and gains an Estate.
+h buys and gains a Copper.
+h draws a Silver, a Province, a Bureaucrat, a Harbinger, and a Market.
